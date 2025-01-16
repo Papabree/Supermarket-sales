@@ -11,11 +11,6 @@ library(rsconnect)
 
 # Load the dataset
 df <- supermarket_sales
-
-
-
-
-
 # Define UI
 ui <- fluidPage(
   titlePanel("Sales Data Visualization"),
